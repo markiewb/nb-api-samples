@@ -19,8 +19,7 @@ import org.openide.util.actions.Presenter;
 	displayName = "SampleAction")
 @ActionReferences({
     @ActionReference(path = "Navigator/Actions/Members/text/x-java", position = 1150),
-    @ActionReference(path = "Navigator/Actions/Hierarchy/text/x-java", position = 1150),
-    @ActionReference(path = "Menu/File", position = 0)
+    @ActionReference(path = "Navigator/Actions/Hierarchy/text/x-java", position = 1150)
 })
 /**
  * Shows the usage of the extensionpoints of the context menu in the members and
