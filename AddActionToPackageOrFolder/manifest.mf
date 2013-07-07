@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: de.markiewb.netbeans.sample.addactiontopackageorfolder
+OpenIDE-Module-Localizing-Bundle: de/markiewb/netbeans/sample/addactiontopackageorfolder/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
