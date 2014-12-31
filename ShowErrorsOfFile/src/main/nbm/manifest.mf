@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: com/mycompany/showerrorsoffile/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/mycompany/showerrorsoffile/Bundle.properties
+
